@@ -14,3 +14,7 @@ Official Web Site: https://landing.google.com/sre/ :kissing:
 3. 刚出来不久，目前市面上没有中文版，而我之前做过运维，现在又在做开发，英文水平还凑活，对书中的观点非常赞同，也喜欢这本书，所以就翻译一下，希望能对大家有帮助。
 
 4. 纪念一下我做运维的两年时光，以后打算全力开发。
+
+---
+
+发一个之前翻译的一篇文章 [干货 | Yelp是如何使用Docker的?](http://dockone.io/article/626)
